@@ -52,7 +52,6 @@
 🐙 Git  
 📂 GitHub  
 💡 IntelliJ IDEA  
-📮 Postman
 
 ---
 
