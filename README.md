@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanidhya Bokade
 
-<!--
-**sanidhyabokade/sanidhyabokade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Backend Developer | Spring Boot Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable backend applications using Java and modern frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Engineering Graduate
+
+🌱 Currently Learning:
+- Spring Boot
+- REST APIs
+- Microservices
+- Docker
+
+🔨 Currently Building:
+- 🚖 Ride Booking Application (Hibernate + PostgreSQL)
+- 👁️ Eyenex – Eye Flu Detection System
+
+🎯 2026 Goals:
+- Master Spring Boot
+- Build production-ready backend projects
+- Contribute to Open Source
+- Crack a Java Developer role
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+☕ Java  
+🐍 Python  
+🗄️ SQL
+
+### Backend
+🌱 Spring Framework  
+🚀 Spring Boot  
+🗃️ Hibernate / JPA  
+🔌 JDBC
+
+### Database
+🐘 PostgreSQL  
+🛢️ MySQL
+
+### Tools
+🐙 Git  
+📂 GitHub  
+💡 IntelliJ IDEA  
+📮 Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🚖 Ride Booking Application
+A backend ride booking system built using Java, Hibernate and PostgreSQL.
+
+### 🎓 Student Management System
+JDBC-based CRUD application for managing student records.
+
+### 🏨 Hotel Reservation System
+Java application implementing hotel booking and reservation functionalities.
+
+
+---
+
+## 📈 GitHub Journey
+
+🔥 Consistently improving Java backend skills
+
+📚 Learning by building real projects
+
+🎯 Focused on clean code and software design principles
+
+---
+
+## 🌟 Fun Fact
+
+⚡ I started with Python and gradually fell in love with Java backend development.
+
+🎮 Huge fan of Rockstar Games and looking forward to playing Red Dead Redemption 2.
+
+---
+
+### Thanks for visiting my profile! ⭐
