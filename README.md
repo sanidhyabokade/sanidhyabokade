@@ -83,7 +83,7 @@ Java application implementing hotel booking and reservation functionalities.
 
 ⚡ I started with Python and gradually fell in love with Java backend development.
 
-🎮 Huge fan of Rockstar Games and looking forward to playing Red Dead Redemption 2.
+🎮 Huge fan of Rockstar Games.
 
 ---
 
